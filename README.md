@@ -1,4 +1,4 @@
-# Trilha DevOps da 4Linux
+# Trilha DevOps da 4Linux - Curso DevOps Essentials
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
 [![Build Status](https://travis-ci.com/fmsantosti21/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/fmsantosti21/DevOpsLab-HelloWorld)
