@@ -12,7 +12,7 @@ Para maiores informações acesse o [Site da 4Linux](https://www.4linux.com.br/c
 
 ## Tecnologias e Plataformas usadas.
 
-- [codeanywhere]
-- [Git]
-- [Travis CI]
-- [HEROKU](Heroku)
+- codeanywhere
+- Git
+- Travis CI
+- Heroku
