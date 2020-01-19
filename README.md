@@ -11,4 +11,7 @@ Para maiores informações acesse o [Site da 4Linux](https://www.4linux.com.br/c
 [Link da Applicação no HEROKU](https://devopses4linux.herokuapp.com/)
 
 ## Tecnologias e Plataformas usadas.
-- [Git](Git)
+- [codeanywhere](codeanywhere Editor)
+- [Git](Git SCM)
+- [Travis CI](Travis CI)
+- [HEROKU](Heroku)
