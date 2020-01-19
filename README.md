@@ -12,7 +12,7 @@ Para maiores informações acesse o [Site da 4Linux](https://www.4linux.com.br/c
 
 ## (DevOps Pipeline) Tecnologias & Serviços/Plataformas
 
-- codeanywhere
+- Codeanywhere Editor
 - Git SCM
 - Travis CI
 - Heroku Cloud Application Platform
