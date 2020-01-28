@@ -5,14 +5,13 @@
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
-
 Para maiores informações acesse o [Site da 4Linux](https://www.4linux.com.br/cursos/devops)
 
 [Link da Applicação no HEROKU](https://devopses4linux.herokuapp.com/)
 
-## (DevOps Pipeline) Tecnologias & Serviços/Plataformas
+## DevOps Pipeline - Tecnologias & Serviços 
 
 - Codeanywhere Editor
 - Git SCM
 - Travis CI
-- Heroku Cloud Application Platform
+- Heroku Cloud 
