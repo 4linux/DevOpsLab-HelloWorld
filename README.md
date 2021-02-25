@@ -1,6 +1,8 @@
 # DevOpsLab-HelloWorld
 Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
+[![Build Status](https://travis-ci.com/atoumdesign/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/atoumdesign/DevOpsLab-HelloWorld)
+
 
 # Template:
 [![atoumdesign](https://circleci.com/gh/atoumdesign/DevOpsLab-HelloWorld.svg?style=svg)](<LINK>)
