@@ -3,7 +3,7 @@ language: python
 
 # Versão que a aplicação suporta.
 python:
-  - "3.6.3"
+  - "3.6.13"
 
 # Faz a instalação com Sudo, para ter privilégio de Super Usuário.
 sudo: required
