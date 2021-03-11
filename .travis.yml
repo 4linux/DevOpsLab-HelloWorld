@@ -1,7 +1,7 @@
 # Linguagem Utilizada para Desenvolver a Aplicação
 language: python
 
-# Versão que a aplicação suporta.
+# Versão que a aplicação suporta (3.6).
 python:
   - "3.6"
 
@@ -19,7 +19,12 @@ script:
 # Defini que o processo de Deploy será na Plataforma Heroku. É necessário informar o nome da APP criada no Heroku
 deploy:
   provider: heroku
+<<<<<<< HEAD
   api-key: $HEROKU_API_KEY 
   app: DevOpsLab-HelloWorld
 
 
+=======
+  api-key: $HEROKU_API_KEY
+  app: englishclass-lulu
+>>>>>>> 1b1dbfb822a27fa3eea3878a08c7517a9805c6ea
