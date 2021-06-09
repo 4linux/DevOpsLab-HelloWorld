@@ -19,4 +19,4 @@ script:
 # Defini que o processo de Deploy será na Plataforma Heroku. É necessário informar o nome da APP criada no Heroku
 deploy:
   provider: heroku
-  app: mudar_para_o_nome_de_sua_app
+  app: mudar_para_o_nome_de_sua_app_no_heroku
