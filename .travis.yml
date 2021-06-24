@@ -14,7 +14,7 @@ install:
 
 # Defini o script de Teste que deve rodar toda vez que o código for alterado.
 script:
-  - python test.py
+  - python test2.py
 
 # Defini que o processo de Deploy será na Plataforma Heroku. É necessário informar o nome da APP criada no Heroku
 deploy:
