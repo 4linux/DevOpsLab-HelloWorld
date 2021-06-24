@@ -24,5 +24,3 @@ deploy:
     secure: $HEROKU_API_KEY
   app: fernanda-tst
 
-  app: fernand-tst
-
