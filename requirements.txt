@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Flask==1.0
+=======
+Flask==1.0.0
+>>>>>>> 30d81b31546cdd5ca68b67de6bef3795f12e0451
 gunicorn
