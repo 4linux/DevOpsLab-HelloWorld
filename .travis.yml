@@ -1,0 +1,13 @@
+language: python
+python:
+- '3.7'
+sudo: required
+install:
+- pip install flask
+script:
+- python test.py
+deploy: 
+provider: heroku
+app: jeferson-beta
+  api_key:
+    secure: OcrwCGeGiBTa+SutuEtpsBpdaShxpXoBl2RX+pHeGXGEbfgz8adlhJb+xtnLopiS03JVAFmQwU3KD9ZrbbFgH83RArKsu5gAY2aoF1IM8hvJmYbFkEkzeJbzxQ7vILItfSLJeIVSum86MLi8sg7e/RSzReG2m4Tdta9Aj2PVJ1gLq8fkAmQFO98lq6yvsDVwVOPwipAjpNnJ4JRm6C7xefN0JbMvenV2QFBfsH+IN1Gz19g87Mgpxj4VpReSNeMf3px/8Hqf1QzgjeIXdJXniJadUcEL4YmEkpwuuVFuWjkLFaEvDlE+/M/lHB2FldU9KAZezdSoRBf2g41OdMjBnXP98ZPl9TsByrYp3wITrzrzodci1jA1M8SuzNSs25oRefRzY4gMMvcSFNKKIBlzXJ4jb1vNV4HlXD/O/0mPCewAij5GfcUwJf38NYuiBzgXt6s9GWu7+uFGtk1s56l/OTthhMr2iAVsibpj5+UKf4CoTsoYBfvSB+sE0rGEMrArGXqPZk8tl77aV4Vzalj4w7X5h76s5hMENv5FurTwosKrzfXkIMzajJGVYlWsALjp9feJtcfEACMLVVxk4VjKN7A5Wzajpat9bXsYGGf68R4Y4o5p+XzUlXvr3CnqY5mJQ1VQywObQSEbvZGbUEKWGi/hhwasEP02vSu9QOiXMgI=
