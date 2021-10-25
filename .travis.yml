@@ -1,11 +1,16 @@
 language: python
-python:
+ 
+ python:
 - '3.7'
 sudo: required
-install:
-- pip install flask
+ 
+ install:
+  
+  - pip install flask
 script:
-- python test.py
+  
+  - python test.py
+
 deploy:
 
 provider: heroku
