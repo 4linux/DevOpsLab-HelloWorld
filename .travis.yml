@@ -16,7 +16,7 @@ install:
 script:
   - python test.py
 
-# Defini que o processo de Deploy será na Plataforma Heroku. É necessário informar o nome da APP criada no Heroku
+# Defini que o o processo de Deploy será na Plataforma Heroku. É necessário informar o nome da APP criada no Heroku
 provider: heroku
 app: jeferson-beta
   api_key:

@@ -6,7 +6,7 @@
 
 [![Build Status](https://app.travis-ci.com/Jefersonbeta/DevOpsLab-HelloWorld.svg?branch=main)](https://app.travis-ci.com/Jefersonbeta/DevOpsLab-HelloWorld)
 
-## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
+## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps2
 
 
 Para maiores informações acesse o [Site da 4Linux](https://www.4linux.com.br/cursos/devops)
