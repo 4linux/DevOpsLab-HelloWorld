@@ -2,7 +2,7 @@
 
 <!-- Altere a Flag abaixo com sua URL do seu usuário do Github -->
 
-![Pipeline Status](https://github.com/Jefersonbeta/DevOpsLab-HelloWorld/blob/main/templates/pipeline.yml) 
+![Pipeline Status](https://github.com/Jefersonbeta/DevOpsLab-HelloWorld/actions/workflows/pipeline.yml/badge.svg) 
 
 [![Build Status](https://app.travis-ci.com/Jefersonbeta/DevOpsLab-HelloWorld.svg?branch=master)](https://app.travis-ci.com/Jefersonbeta/DevOpsLab-HelloWorld)
 
