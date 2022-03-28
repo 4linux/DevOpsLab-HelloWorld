@@ -1,9 +1,7 @@
 # Trilha DevOps da 4Linux
 
-<!-- Altere a Flag abaixo com sua URL do seu usuário do Github -->
-<!--
-![Pipeline Status](https://github.com/<USER>/DevOpsLab-HelloWorld/actions/workflows/pipeline.yml/badge.svg) 
--->
+<!-- Altere a Flag abaixo com sua URL do Travis -->
+[![Build Status](https://travis-ci.com/clebsonwendler/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/clebsonwendler/DevOpsLab-HelloWorld)
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 

@@ -1,0 +1,13 @@
+language: python
+python:
+- '3.7'
+sudo: required
+install:
+- pip install flask
+script:
+- python test.py
+deploy:
+  provider: heroku
+  app: devops4test
+  api_key:
+    secure: zl34D2/9y4UbUClf28fKKqSC6VGG6j5ro2sxwBSy1x5KYSw+SHcTai3wV4PffFn66bTuKxHnkldhJDRqbgNIaI/KBXUmGe++j/7c+enIERbDz5wfcc36CcB5HhTMmfdzpeP5WwTeNnPQjc1gQrF9k3bFOcWSC0Ms9C+KpxLx4mee3L5MiEqrwsIIOU/BgAzZ1x3p5BtPdjTeXc8BDwjJvkmN0AM/NpbVwNYAo1Zqrf4Nr2GiQfbIcCo/2L0oJJZpkAvfhI9LCJNbdiZsfl7uRUS54tMg3RhrKRXukMH3t1ZWgmjEp8S2wwcehTgTr1DzG5R4lMJkzgAxSFiL6aE0VVhSnZHzqmwWwNoW8L++Sqyr9moCfNupMmXMO3uL8MOTyfhMZYV0E24lPE/rlDtihHYeh9NVaLMOS57YbeW1Io3hc3wXjSnBEmIGyq64ps5KzdfFtd7LmVYjQp66pAtNW1TIXvlPPtyakCJR7M3PINbt0AW8ojlsxPoscloVBWBFx2DVjiNGyumG229zhS0FPevivajKjoHbKATrSlfwcM389P7/oQPgxY9Nthhroppc8oJY6hx1tDzMios37kskqtaJ+OKZYQfs5jMwvmt3W5l6Whr66nf0TsM0M2qzkXEOqakfe6UrPdQTCIBFTYvVT5ExcEu/S1Z8SUt5y/hnLPg=
